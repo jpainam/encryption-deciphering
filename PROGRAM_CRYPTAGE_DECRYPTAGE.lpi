@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectOptions>
+    <PathDelim Value="\"/>
+    <Version Value="7"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+      </Flags>
+      <MainUnit Value="0"/>
+      <TargetFileExt Value=".exe"/>
+      <Icon Value="0"/>
+      <UseXPManifest Value="True"/>
+      <ActiveEditorIndexAtStart Value="0"/>
+    </General>
+    <VersionInfo>
+      <ProjectVersion Value=""/>
+      <Language Value=""/>
+      <CharSet Value=""/>
+    </VersionInfo>
+    <PublishOptions>
+      <Version Value="2"/>
+      <IgnoreBinaries Value="False"/>
+      <IncludeFileFilter Value="*.(pas|pp|inc|lfm|lpr|lrs|lpi|lpk|sh|xml)"/>
+      <ExcludeFileFilter Value="*.(bak|ppu|ppw|o|so);*~;backup"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+        <LaunchingApplication PathPlusParams="/usr/X11R6/bin/xterm -T 'Lazarus Run Output' -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+      </local>
+    </RunParams>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="PROGRAM_CRYPTAGE_DECRYPTAGE"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="30" Y="702"/>
+        <TopLine Value="691"/>
+        <EditorIndex Value="0"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+        <SyntaxHighlighter Value="None"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="PROGRAM_CRYPTAGE_DECRYPTAGE"/>
+        <Caret Line="559" Column="22" TopLine="521"/>
+      </Position1>
+      <Position2>
+        <Filename Value="PROGRAM_CRYPTAGE_DECRYPTAGE"/>
+        <Caret Line="534" Column="78" TopLine="508"/>
+      </Position2>
+      <Position3>
+        <Filename Value="PROGRAM_CRYPTAGE_DECRYPTAGE"/>
+        <Caret Line="205" Column="53" TopLine="192"/>
+      </Position3>
+      <Position4>
+        <Filename Value="PROGRAM_CRYPTAGE_DECRYPTAGE"/>
+        <Caret Line="195" Column="7" TopLine="179"/>
+      </Position4>
+      <Position5>
+        <Filename Value="PROGRAM_CRYPTAGE_DECRYPTAGE"/>
+        <Caret Line="698" Column="55" TopLine="689"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="8"/>
+    <PathDelim Value="\"/>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)\"/>
+    </SearchPaths>
+    <Other>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
