@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<CONFIG>
-  <Compiler Value="c:\lazarus\fpc\2.2.2\bin\i386-win32\fpc.exe" Date="960853660"/>
-  <Params Value=" -MObjFPC -Scgi -O1 -gl -vewnhi -l &quot;-FiE:\cours et projets\PROJET3\&quot; &quot;-FuE:\cours et projets\PROJET3\&quot; -Fu. &quot;-FEE:\cours et projets\PROJET3\&quot; -oPROGRAM_CRYPTAGE_DECRYPTAGE.exe PROGRAM_CRYPTAGE_DECRYPTAGE"/>
-</CONFIG>
